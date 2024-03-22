@@ -1,0 +1,131 @@
+Variable-
+first name:
+last name:
+
+Variable is the name of the memory location. 
+
+Types of variable
+1. LOcal Variable
+2. Global Variable
+
+
+Syntext
+
+datatype	variable name
+
+
+Rules of defining variable:
+1. Allow character A-Z, a-z, 0-9, _
+2. Case sensetive: abc, ABC (২ টি আলাদা আলাদা)
+3. Keywords: 
+4. Whitespace:
+5. 0-9 দিয়ে শুরু করা যাবে না (মাধখানে যেকোন জায়গায় দেওয়া যাবে)
+
+
+int
+
+
+
+Data type
+
+1. Basic Data type
+	int
+	char
+	floot
+	double
+
+2. Direct data type
+	array
+	pointer
+
+
+
+
+
+------------------------
+int	age;
+char	ver="A";
+floot	ver=10.45;
+floot	ver= 10;
+double	ver= 10.351;
+
+
+
+
+1st march 2024
+----------------------
+
+C operators
+
+1. Arethmetic operator
+	+, -, * /, %, ++, --
+
+2. Relational operator
+	>, <, >=, <=, ==, != (Not equal)
+
+3. logical  operator
+	&& || (or)
+
+
+4. Assignment operator
+	= 
+
+
+
+
+
+#c formate specifier
+-------------------
+
+scanf, printf
+
+ 1. %d (for int)
+ 2. %f (flout)
+	defult 6 digit, for 2 digit (.2f), for 3 digit (.3f)
+ 3. %c (for signle cher)
+    %s (for sentence)
+
+
+
+
+
+
+
+#include<stdio.h>
+
+int main()
+
+{
+int number;
+printf("Enter a Number:");
+scanf("%d",&number);
+printf("The number is: %d", number);
+
+}
+
+
+
+H.W
+----
+Area of Triangle (half * Vumi * Ucchota)
+
+A3+3a2b+3ab2+b3
+A2+2ab+b2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
